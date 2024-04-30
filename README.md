@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SymbiotyK / Jakub Godyń
+- 👋 Hi, I’m Jakub Godyń aka SymbiotyK
 - 👀 I’m interested in data engineering and developing application to mine and analyze data in manufacturing/buisness environment
 - 🌱 I’m currently learning Power Apps / Python / SQL
 - 📫 How to reach me jakubgodyn@onet.pl / [LinkedIn](https://www.linkedin.com/in/jakub-gody%C5%84-94444b290/)
